@@ -25,7 +25,7 @@
 
 如果你是长期在国内折腾翻墙的人，大概都会有这么一个心路历程：从免费VPN / 机场入坑 → 节点时好时坏，动不动就“全部红灯” → 开始认真研究 StrongVPN、PrivateVPN、ExpressVPN、NordVPN、CyberGhost 这些老牌付费 VPN，到底谁更稳、谁更适合在中国长期使用。下面就结合这几款 VPN 在中国的表现，聊聊它们的优势和适用场景，顺便穿插一些实战经验，尽量用“知乎一点”的风格说人话。😄  
 
-### 一、为什么“在中国能用”是一个特别的标准？
+### 为什么“在中国能用”是一个特别的标准？
 
 很多人第一次选 VPN，会直接 Google（或者百度）“**最好用的VPN**”“**翻墙软件推荐**”，结果一堆榜单里把 Surfshark、ProtonVPN、TunnelBear 之类往前排，但真正一到中国就发现：  
 - 官网打不开  
@@ -36,7 +36,7 @@
 原因很简单：中国的防火长城（GFW）对 VPN 有专门的 DPI（深度包检测）和流量特征识别，很多“国外测评榜首”的 VPN，实际上对 **中国网络环境适配不足**。  
 所以在国内选 VPN，第一条就是：**不是谁在国外口碑最好，而是谁对中国有特别优化、有反封锁经验**。这一点上，StrongVPN、PrivateVPN、ExpressVPN、NordVPN、CyberGhost 的差异就比较明显了。
 
-### [Starfirewall](https://starfirewall.com/)：适合愿意导入订阅的 iPhone 用户
+### 一、[Starfirewall](https://starfirewall.com/)：适合愿意导入订阅的 iPhone 用户
 
 ![Starfirewall 官网界面](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-homepage.jpg)
 
