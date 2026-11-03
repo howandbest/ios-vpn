@@ -36,7 +36,19 @@
 原因很简单：中国的防火长城（GFW）对 VPN 有专门的 DPI（深度包检测）和流量特征识别，很多“国外测评榜首”的 VPN，实际上对 **中国网络环境适配不足**。  
 所以在国内选 VPN，第一条就是：**不是谁在国外口碑最好，而是谁对中国有特别优化、有反封锁经验**。这一点上，StrongVPN、PrivateVPN、ExpressVPN、NordVPN、CyberGhost 的差异就比较明显了。
 
+### [Starfirewall](https://starfirewall.com/)：适合愿意导入订阅的 iPhone 用户
+
+![Starfirewall 官网界面](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-homepage.jpg)
+
+Starfirewall 提供订阅接入，iPhone 和 iPad 用户需要先准备与订阅协议兼容的 iOS 客户端，再从用户中心获取订阅并按说明导入。这种使用方式适合希望自己管理连接配置的人；购买服务前，先确认客户端的获取渠道、协议支持以及是否需要另外付费。
+
+iOS 上建议先完成配置更新、授权 VPN 连接，再分别测试浏览器和常用 App。如果浏览器能访问而 App 无法登录，需要继续检查分流和目标平台的账户要求，不能只看客户端里的延迟数字。Starfirewall 官网列出的设备上限为 5 台同时在线，适合需要兼顾手机与电脑的用户。
+
+[查看 Starfirewall 套餐与使用说明](https://starfirewall.com/)
+
 ### 二、[StrongVPN](https://overwallvpn.com/go/strongvpn)：老牌翻墙工具，低调但抗封锁能力不错
+
+![StrongVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/10/StrongVPN-App.jpg)
 
 如果你混过早期翻墙圈，大概率听过 **StrongVPN** 这个名字。它属于比较典型的：  
 - 名气没有 ExpressVPN、NordVPN 那么大  
@@ -53,6 +65,8 @@
 
 ### 三、[PrivateVPN](https://overwallvpn.com/go/privatevpn)：小而精，适合“备用线路”和流媒体党
 
+![PrivateVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-homepage.jpg)
+
 **PrivateVPN** 算是“冷门但有粉丝”的一种：服务器规模不算大，但口碑不错，尤其是解锁流媒体方面。  
 
 **优势亮点：**  
@@ -67,6 +81,8 @@
 如果你预算有限，**又特别重视流媒体解锁**，PrivateVPN 可以作为一个不错的第二选择，但不太适合只用一个 VPN 就解决全部需求的那种“唯一主力”。  
 
 ### 四、[ExpressVPN](https://overwallvpn.com/go/expressvpn)：口碑之王，翻墙“老大哥”级别
+
+![ExpressVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/11/expressvpn-homepage.jpg)
 
 提到“**在中国好用的 VPN**”，ExpressVPN 几乎是被提到最多的名字之一。很多人在网上、论坛、Telegram 群里讨论翻墙，都会把它列为 **中国用户首选**。  
 
@@ -92,6 +108,8 @@
 
 ### 五、[NordVPN](https://overwallvpn.com/go/nordvpn)：速度与功能兼顾的新一代主力
 
+![NordVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/12/nordvpn-homepage.jpg)
+
 **NordVPN** 近几年在全球 VPN 市场风头非常猛，广告投放特别多，在中国的讨论度也越来越高。跟 ExpressVPN 比较像“老大哥 vs 新势力”：  
 
 **核心优势：**  
@@ -113,6 +131,8 @@
 综合来说，**NordVPN 更适合追求速度和进阶功能的用户**：如果你除了翻墙浏览，还经常需要 BT 下载、远程工作、访问外服游戏、云服务，那么 NordVPN 是一款非常平衡的主力 VPN。  
 
 ### 六、[CyberGhost](https://overwallvpn.com/go/cyberghost)：界面友好，适合作为“流媒体+备用”组合
+
+![CyberGhost 产品界面](https://overwallvpn.com/wp-content/uploads/2025/12/cyberghost-china-ip.jpg)
 
 **CyberGhost VPN** 在欧美尤其是欧洲用户群体里很火，在国内的讨论热度相对中等，但其实它有几个特点挺适合中国用户当“第二把梯子”：  
 
